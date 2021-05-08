@@ -32,20 +32,20 @@ body {
 }
 
 .red {
-  background-image: url("images/s11.jpeg");
+  background-image: url("s11.jpeg");
   
 }
 
 .green {
-    background-image: url("images/s22.jpeg");
+    background-image: url("s22.jpeg");
 }
 
 .blue {
-    background-image: url("images/s33.jpeg");
+    background-image: url("s33.jpeg");
 }
 
 .yellow {
-  background-image: url("images/s44.jpeg");
+  background-image: url("s44.jpeg");
 }
 
 .pressed {
